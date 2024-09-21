@@ -1,0 +1,11 @@
+# Ignorar archivos de sistema
+.DS_Store
+.Trash/
+*.pyc
+__pycache__/
+*.log
+
+# Ignorar carpetas de aplicaciones
+.conda/
+.anaconda/
+.vscode/
